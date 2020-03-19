@@ -8,6 +8,7 @@ Release Date: March 18, 2020
 # README CONTENTS
 
 1.1 Introduction
+
 1.2 Description
 1.3 Code Explanation
 1.4 Challenges Faced
