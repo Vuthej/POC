@@ -10,12 +10,17 @@ Release Date: March 18, 2020
 1.1 Introduction
 
 1.2 Description
+
 1.3 Code Explanation
+
 1.4 Challenges Faced
+
 1.5 Conclusion/Future Work
 
 2.0 DSCI_521_Term_Project_Phase1.ipynb
+
 2.1 DSCI_521_Term_Project_Phase2.ipynb
+
 2.2 JSON Files
 
 ----------------------------------------------------------------------------------------------------------------------
